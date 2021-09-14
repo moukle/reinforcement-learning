@@ -1,0 +1,6 @@
+.vscode/settings.json
+
+output/training/logs/
+output/training/models/
+output/training/saved models/
+input/
