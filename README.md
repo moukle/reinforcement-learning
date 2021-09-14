@@ -1,10 +1,10 @@
 # Reinforcement Learning
 
 - [Reinforcement Learning](#reinforcement-learning)
-  - [Notebooks $1, \dots, 4$](#notebooks-1-dots-4)
+  - [Notebooks](#notebooks)
 
-## Notebooks $1, \dots, 4$
-These notebooks under `src` follow [this](https://www.youtube.com/watch?v=Mut_u40Sqz4) tutorial.
+## Notebooks
+The notebooks 1..4 under `src` follow [this](https://www.youtube.com/watch?v=Mut_u40Sqz4) tutorial.
 
 Content covered includes:
 - Environments
